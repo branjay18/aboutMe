@@ -1,0 +1,27 @@
+/*iPhone 6Plus*/
+@media screen and (max-width:414px) {
+    h1 { 
+        font-size: .75rem;
+    }
+    img {
+        width: 100%;
+        margin: 0;
+    }
+    p {
+        font-size: .5rem;
+    }
+}
+
+/*extra..*/
+@media screen and (max-width:538px) {
+    img {
+        width: 85%;
+        margin: 0;
+    }
+    h1 {
+        font-size: .85rem;
+    }
+    p { 
+        font-size: .65rem;
+    }
+}
